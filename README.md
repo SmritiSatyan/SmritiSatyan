@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, I am Smriti, a technical writer. I am a Computer Science engineer, who graduated in 2017.
+I am Smriti, a technical writer. I am a Computer Science engineer, who graduated in 2017. I have experience 
 <!--
 **SmritiSatyan/SmritiSatyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
