@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am Smriti, a technical writer. I am a Computer Science engineer, who graduated in 2017. I have experience 
+
+I am Smriti, a tech enthusiast. My interests include technical writing, exploring Machine Learning algorithms, and building meaningful ML applications.
 <!--
 **SmritiSatyan/SmritiSatyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
