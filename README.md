@@ -1,6 +1,13 @@
 ### Hi there 👋
 
 I am Smriti, a tech enthusiast. My interests include technical writing, exploring Machine Learning algorithms, and building meaningful ML applications.
+
+#### Links to my published work
+[Machine Learning articles](https://www.studytonight.com/profile.php?uname=SmritiS&show=articles)
+
+[Python articles](https://www.studytonight.com/profile.php?uname=SmritiSatyan&show=articles)
+
+
 <!--
 **SmritiSatyan/SmritiSatyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
