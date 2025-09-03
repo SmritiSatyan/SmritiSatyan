@@ -3,9 +3,11 @@
 I am Smriti, a tech enthusiast. My interests include technical writing, exploring Machine Learning algorithms, and building meaningful ML applications.
 
 #### Links to my published work
-[Machine Learning articles](https://www.studytonight.com/profile.php?uname=SmritiS&show=articles)
-
-[Python articles](https://www.studytonight.com/profile.php?uname=SmritiSatyan&show=articles)
+- [Machine Learning articles](https://www.studytonight.com/profile.php?uname=SmritiS&show=articles)
+- [Python articles](https://www.studytonight.com/profile.php?uname=SmritiSatyan&show=articles)
+- [Medium Blog](https://medium.com/@smriti1090)
+- [YouTube Videos](https://www.youtube.com/watch?v=01efVOyFGl8&list=PLXsYHFsLmqf0fgHoZANmwGB1tSQka5kDV)
+- [Dev.ot](https://dev.to/smritisatyan)
 
 
 <!--
